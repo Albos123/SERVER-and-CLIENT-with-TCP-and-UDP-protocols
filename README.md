@@ -1,5 +1,5 @@
 # SERVER-and-CLIENT-with-TCP-and-UDP-protocols
-Nje detyre ne vitin tim te dyte te studimeve bachelor ne Inxhinieri Kompjuterike (2017/2018): Rrjetet kompjuterike
+Nje detyre ne vitin tim te dyte te studimeve bachelor ne Inxhinieri Kompjuterike (2017/2018): Rrjetet Kompjuterike
 
 An assignment on my second year of Computer Engineering bachelor studies. Subject: Computer Networks
 
